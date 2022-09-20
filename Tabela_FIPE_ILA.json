@@ -1,0 +1,744 @@
+{
+  "tabelaFIPE_ILA": [
+    {
+      "nome_indice": "ila",
+      "ano": 2022,
+      "mes": 8,
+      "dta_publicacao": "2022-08-25",
+      "perc": 25.34
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2022,
+      "mes": 7,
+      "dta_publicacao": "2022-07-25",
+      "perc": 25.31
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2022,
+      "mes": 6,
+      "perc": 25.22
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2022,
+      "mes": 5,
+      "perc": 25.13
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2022,
+      "mes": 4,
+      "perc": 25.06
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2022,
+      "mes": 3,
+      "perc": 25.1
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2022,
+      "mes": 2,
+      "perc": 25.08
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2022,
+      "mes": 1,
+      "perc": 24.78
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2021,
+      "mes": 12,
+      "perc": 24.66
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2021,
+      "mes": 11,
+      "perc": 24.52
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2021,
+      "mes": 10,
+      "perc": 24.31
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2021,
+      "mes": 9,
+      "perc": 24.01
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2021,
+      "mes": 8,
+      "perc": 23.57
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2021,
+      "mes": 7,
+      "perc": 23.06
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2021,
+      "mes": 6,
+      "perc": 22.75
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2021,
+      "mes": 5,
+      "perc": 22.75
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2021,
+      "mes": 4,
+      "perc": 22.47
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2021,
+      "mes": 3,
+      "perc": 22.41
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2021,
+      "mes": 2,
+      "perc": 22.26
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2021,
+      "mes": 1,
+      "perc": 22.04
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2020,
+      "mes": 12,
+      "perc": 21.78
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2020,
+      "mes": 11,
+      "perc": 21.62
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2020,
+      "mes": 10,
+      "perc": 20.7
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2020,
+      "mes": 9,
+      "perc": 20.76
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2020,
+      "mes": 8,
+      "perc": 20.61
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2020,
+      "mes": 7,
+      "perc": 20.46
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2020,
+      "mes": 6,
+      "perc": 20.7
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2020,
+      "mes": 5,
+      "perc": 21.12
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2020,
+      "mes": 4,
+      "perc": 21.39
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2020,
+      "mes": 3,
+      "perc": 21.43
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2020,
+      "mes": 2,
+      "perc": 21.37
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2020,
+      "mes": 1,
+      "perc": 21.14
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2019,
+      "mes": 12,
+      "perc": 20.96
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2019,
+      "mes": 11,
+      "perc": 20.76
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2019,
+      "mes": 10,
+      "perc": 20.65
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2019,
+      "mes": 9,
+      "perc": 20.42
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2019,
+      "mes": 8,
+      "perc": 19.95
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2019,
+      "mes": 7,
+      "perc": 19.92
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2019,
+      "mes": 6,
+      "perc": 19.69
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2019,
+      "mes": 5,
+      "perc": 19.56
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2019,
+      "mes": 4,
+      "perc": 19.52
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2019,
+      "mes": 3,
+      "perc": 19.48
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2019,
+      "mes": 2,
+      "perc": 19.35
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2019,
+      "mes": 1,
+      "perc": 19.18
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2018,
+      "mes": 12,
+      "perc": 19.04
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2018,
+      "mes": 11,
+      "perc": 18.87
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2018,
+      "mes": 10,
+      "perc": 18.78
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2018,
+      "mes": 9,
+      "perc": 18.62
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2018,
+      "mes": 8,
+      "perc": 18.48
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2018,
+      "mes": 7,
+      "perc": 18.5
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2018,
+      "mes": 6,
+      "perc": 18.34
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2018,
+      "mes": 5,
+      "perc": 18.18
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2018,
+      "mes": 4,
+      "perc": 17.94
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2018,
+      "mes": 3,
+      "perc": 17.95
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2018,
+      "mes": 2,
+      "perc": 17.79
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2018,
+      "mes": 1,
+      "perc": 17.45
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2017,
+      "mes": 12,
+      "perc": 17.51
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2017,
+      "mes": 11,
+      "perc": 17.43
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2017,
+      "mes": 10,
+      "perc": 17.4
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2017,
+      "mes": 9,
+      "perc": 17.12
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2017,
+      "mes": 8,
+      "perc": 16.99
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2017,
+      "mes": 7,
+      "perc": 16.85
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2017,
+      "mes": 6,
+      "perc": 16.7
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2017,
+      "mes": 5,
+      "perc": 16.7
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2017,
+      "mes": 4,
+      "perc": 16.53
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2017,
+      "mes": 3,
+      "perc": 16.63
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2017,
+      "mes": 2,
+      "perc": 16.57
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2017,
+      "mes": 1,
+      "perc": 16.37
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2016,
+      "mes": 12,
+      "perc": 16.3
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2016,
+      "mes": 11,
+      "perc": 16.28
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2016,
+      "mes": 10,
+      "perc": 16.39
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2016,
+      "mes": 9,
+      "perc": 16.26
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2016,
+      "mes": 8,
+      "perc": 16.24
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2016,
+      "mes": 7,
+      "perc": 16.12
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2016,
+      "mes": 6,
+      "perc": 15.44
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2016,
+      "mes": 5,
+      "perc": 15.98
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2016,
+      "mes": 4,
+      "perc": 16
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2016,
+      "mes": 3,
+      "perc": 15.99
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2016,
+      "mes": 2,
+      "perc": 16.07
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2016,
+      "mes": 1,
+      "perc": 15.92
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2015,
+      "mes": 12,
+      "perc": 15.93
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2015,
+      "mes": 11,
+      "perc": 15.98
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2015,
+      "mes": 10,
+      "perc": 16
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2015,
+      "mes": 9,
+      "perc": 15.86
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2015,
+      "mes": 8,
+      "perc": 15.8
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2015,
+      "mes": 7,
+      "perc": 15.74
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2015,
+      "mes": 6,
+      "perc": 15.8
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2015,
+      "mes": 5,
+      "perc": 15.75
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2015,
+      "mes": 4,
+      "perc": 15.71
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2015,
+      "mes": 3,
+      "perc": 15.8
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2015,
+      "mes": 2,
+      "perc": 15.75
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2015,
+      "mes": 1,
+      "perc": 15.36
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2014,
+      "mes": 12,
+      "perc": 15.29
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2014,
+      "mes": 11,
+      "perc": 15.22
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2014,
+      "mes": 10,
+      "perc": 15.01
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2014,
+      "mes": 9,
+      "perc": 15
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2014,
+      "mes": 8,
+      "perc": 15.19
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2014,
+      "mes": 7,
+      "perc": 15.19
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2014,
+      "mes": 6,
+      "perc": 15.13
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2014,
+      "mes": 5,
+      "perc": 15.16
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2014,
+      "mes": 4,
+      "perc": 15.37
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2014,
+      "mes": 3,
+      "perc": 15.53
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2014,
+      "mes": 2,
+      "perc": 15.63
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2014,
+      "mes": 1,
+      "perc": 15.92
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2013,
+      "mes": 12,
+      "perc": 16.07
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2013,
+      "mes": 11,
+      "perc": 15.25
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2013,
+      "mes": 10,
+      "perc": 15.64
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2013,
+      "mes": 9,
+      "perc": 16.08
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2013,
+      "mes": 8,
+      "perc": 15.88
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2013,
+      "mes": 7,
+      "perc": 16.07
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2013,
+      "mes": 6,
+      "perc": 16.08
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2013,
+      "mes": 5,
+      "perc": 16.09
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2013,
+      "mes": 4,
+      "perc": 16.66
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2013,
+      "mes": 3,
+      "perc": 16.56
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2013,
+      "mes": 2,
+      "perc": 16.79
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2013,
+      "mes": 1,
+      "perc": 16.83
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2012,
+      "mes": 12,
+      "perc": 16.89
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2012,
+      "mes": 11,
+      "perc": 16.96
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2012,
+      "mes": 10,
+      "perc": 17.37
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2012,
+      "mes": 9,
+      "perc": 17.37
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2012,
+      "mes": 8,
+      "perc": 17.5
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2012,
+      "mes": 7,
+      "perc": 17.9
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2012,
+      "mes": 6,
+      "perc": 18.23
+    }
+  ]
+}
