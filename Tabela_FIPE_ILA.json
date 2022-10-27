@@ -3,6 +3,13 @@
     {
       "nome_indice": "ila",
       "ano": 2022,
+      "mes": 10,
+      "dta_publicacao": "2022-10-25",
+      "perc": 25.53
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2022,
       "mes": 9,
       "dta_publicacao": "2022-09-26",
       "perc": 25.40
