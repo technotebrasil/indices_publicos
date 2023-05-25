@@ -3,6 +3,13 @@
      {
       "nome_indice": "ila",
       "ano": 2023,
+      "mes": 5,
+      "dta_publicacao": "2023-05-25",
+      "perc": 25.36
+    },
+     {
+      "nome_indice": "ila",
+      "ano": 2023,
       "mes": 4,
       "dta_publicacao": "2023-04-25",
       "perc": 25.07
