@@ -3,6 +3,13 @@
     {
       "nome_indice": "ila",
       "ano": 2024,
+      "mes": 2,
+      "dta_publicacao": "2024-02-26",
+      "perc": 25.20
+    },
+    {
+      "nome_indice": "ila",
+      "ano": 2024,
       "mes": 1,
       "dta_publicacao": "2024-01-25",
       "perc": 25.04
