@@ -1,5 +1,12 @@
 {
   "tabelaFIPE_ILA": [
+      {
+      "nome_indice": "ila",
+      "ano": 2025,
+      "mes": 7,
+      "dta_publicacao": "2025-07-25",
+      "perc": 25.32
+    }, 
     {
       "nome_indice": "ila",
       "ano": 2025,
@@ -980,3 +987,4 @@
     }
   ]
 }
+
