@@ -3,6 +3,13 @@
      {
       "nome_indice": "ila",
       "ano": 2025,
+      "mes": 11,
+      "dta_publicacao": "2025-11-25",
+      "perc": 25.59
+    }, 
+     {
+      "nome_indice": "ila",
+      "ano": 2025,
       "mes": 10,
       "dta_publicacao": "2025-10-27",
       "perc": 25.43
@@ -1008,6 +1015,7 @@
     }
   ]
 }
+
 
 
 
